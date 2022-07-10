@@ -3,14 +3,14 @@
 
 Sales Dashboard built in streamlit by using python to visualise data.
 
-### Demo
+#### Demo
 Sales Dashboard: https://mbohunickacharles-streamlit-sales-dashboard-app-q9hazx.streamlitapp.com/
 
-### Screenshot
+#### Screenshot
 
 ![Dashboar Screenshot](https://github.com/mBohunickaCharles/streamlit_Sales_Dashboard/blob/master/sales_dashboard.png)
 
-### Source:
+#### Source:
 
 - Coding Is Fun on YouTube: https://youtube.com/c/CodingIsFun
 
