@@ -1,5 +1,5 @@
 
-## Interactive Dashboard with Python – Streamlit
+## Interactive Dashboard with Streamlit
 
 Sales Dashboard built in streamlit by using python to visualise data.
 
