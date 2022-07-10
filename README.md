@@ -8,10 +8,9 @@ Sales Dashboard: https://mbohunickacharles-streamlit-sales-dashboard-app-q9hazx.
 
 ### Screenshot
 
-![Dashboar Screenshot]()
+![Dashboar Screenshot](https://github.com/mBohunickaCharles/streamlit_Sales_Dashboard/blob/master/sales_dashboard.png)
 
 ### Source:
 
-- Coding Is Fun
-- YouTube: https://youtube.com/c/CodingIsFun
+- Coding Is Fun on YouTube: https://youtube.com/c/CodingIsFun
 
