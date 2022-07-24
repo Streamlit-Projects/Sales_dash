@@ -4,7 +4,7 @@
 Sales Dashboard built in streamlit by using python to visualise data.
 
 #### Demo
-Sales Dashboard: https://mbohunickacharles-streamlit-sales-dashboard-app-q9hazx.streamlitapp.com/
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mbohunickacharles-streamlit-sales-dashboard-app-q9hazx.streamlitapp.com/)
 
 #### Screenshot
 
